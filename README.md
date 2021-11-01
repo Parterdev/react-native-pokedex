@@ -27,7 +27,7 @@ This project is a new practical item of my React Native mobile app series that m
 ## Available Scripts
 - *The project has only been tested on Android*
 </br>
-In the project directory, you can run special commands like this:
+In the project directory, you can run special commands like these:
 
 To install dependencies 
 #### `$ npm install` | `$ yarn install`
